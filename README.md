@@ -1,12 +1,17 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=digitalbangash1.visitor-badge&left_color=red&right_color=green">
  <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! Nice to see you</h1>
+ 
+ <h2>Reach me at </h2> 
+
+<p>  <a href="https://discord.com/users/muhammad#5106" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/digitalbangash1/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>   
+  <a href="https://twitter.com/digitalbangash1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a><a href="https://www.linkedin.com/in/ali-bangash-2687351a4/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page;Here+is+the+overview+of+what+I+work+with)](https://git.io/typing-svg)
 <p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen.Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in <b>Lyngby&Ballerup</b>. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.</p>
   
-    <h2>Things I code with</h2>
-    <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
+ <h2> Things I code with </h2>   
+ <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
    <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -50,6 +55,10 @@
     
   </p>
   
+  
+  
+  
+  
    <h2> Other </h2>
      <p>
       <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
@@ -69,10 +78,7 @@
        <img alt="MDN" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
         
       
-<h2>Reach me at </h2> 
 
-<p>  <a href="https://discord.com/users/muhammad#5106" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/digitalbangash1/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>   
-  <a href="https://twitter.com/digitalbangash1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/ali-bangash-2687351a4/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
  
 </p>
