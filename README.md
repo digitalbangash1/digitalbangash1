@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Muhammad Bangash</h2>
 
 <!--
 **digitalbangash1/digitalbangash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
