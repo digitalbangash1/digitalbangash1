@@ -3,10 +3,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page;Here+is+the+overview+of+what+I+work+with)](https://git.io/typing-svg)
-<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen <b>.Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in <b>Lyngby/Ballerup</b>. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.  </p>
-  <p>
-    <h3>Things I code with</h3>
-   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen.Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in <b>Lyngby&Ballerup</b>. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.</p>
+  
+    <h2>Things I code with</h2>
+    <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
    <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -36,12 +36,7 @@
    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-  
-   
-   
-   
-  
+   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /> 
       
   </p>
   
