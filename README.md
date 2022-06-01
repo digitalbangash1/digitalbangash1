@@ -79,7 +79,7 @@
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalbangash1)](https://github.com/digit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalbangash1)](https://github.com/digitalbangash1/github-readme-stats)
 
   
   
