@@ -1,6 +1,6 @@
 ### <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! Nice to see you</h1>
 
-<p>Welcome to my page! I'm Muhammad Bangash, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen <b></p>
+<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen <b></p>
   <p>
     <h3>Things I code with</h3>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
