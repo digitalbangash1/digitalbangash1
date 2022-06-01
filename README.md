@@ -91,6 +91,9 @@
 </a>
 </p>  
 
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=digitalbangash1)](https://github.com/gazf/github-readme-twitter)
+
 <!--
 **digitalbangash1/digitalbangash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
