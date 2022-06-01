@@ -73,8 +73,7 @@
       
 <h2>Reach me at </h2>  
 
-<p
-  align="left"> <a href="https://discord.com/users/muhammad#5106" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<p align="left"> <a href="https://discord.com/users/muhammad#5106" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
   <a href="https://www.github.com/digitalbangash1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
   
