@@ -1,6 +1,7 @@
 ### <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! Nice to see you</h1>
 
-<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen <b></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page;Here+is+the+overview+of+what+I+work+with)](https://git.io/typing-svg)
+<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen <b>.Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in <b>Lyngby/Ballerup</b>. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.  </p>
   <p>
     <h3>Things I code with</h3>
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -92,7 +93,7 @@
 </p>  
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=digitalbangash1)](https://github.com/gazf/github-readme-twitter)
+
 
 <!--
 **digitalbangash1/digitalbangash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
