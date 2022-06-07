@@ -98,7 +98,10 @@
 </p>  
 
 <h2>Twitter feeds</h2>
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=digitalbangash1)](https://github.com/gazf/github-readme-twitter)
+
+<a href="https://github.com/gazf/github-readme-twitter">
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=digitalbangash1&layout=wide&show_reply=off&show_retweet=on" />
+</a>
 
 
 
