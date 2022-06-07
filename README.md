@@ -99,7 +99,7 @@
 
 <h2>Twitter feeds</h2>
 
-<a href="https://github.com/gazf/github-readme-twitter">
+<a href="https://twitter.com/digitalbangash1">
 <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=digitalbangash1&layout=wide&show_reply=off&show_retweet=on" />
 </a>
 
