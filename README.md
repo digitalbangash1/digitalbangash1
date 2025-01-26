@@ -8,7 +8,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page;Here+is+the+overview+of+what+I+work+with)](https://git.io/typing-svg)
-<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software developer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen.Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in <b>Lyngby&Ballerup</b>. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.</p>
+<p>Welcome to my page! <b>I'm Muhammad Bangash</b>, a Software Engineer from <img alt="Night Coding" src="./assets/dk_flag_icon.png" width="15"/>  based in West of Copenhagen. Currently I am working as a Cloud Engineer at company located in <b>Copenhagen</b>. As a passionate and solutions-oriented Software Engineer, I thrive on tackling complex challenges with modern technology to deliver impactful results. I specialize in designing, scaling, and optimizing software solutions that drive value and innovation. With a commitment to clean, maintainable code and a focus on building exceptional applications, I continuously adapt to new technologies and methodologies to remain at the forefront of the industry.</p>
+<p>I have hands-on expertise in both cloud-only and hybrid environments, with a strong emphasis on cloud-native development, platform engineering, automation, and security. My experience spans across delivering robust DevOps solutions, implementing secure architectures, and enabling seamless cloud migrations.
+
+I enjoy connecting with professionals to share insights, explore emerging technologies, and discuss innovative solutions in areas like software development, cloud transformation, and DevOps practices.</p>
   
  <h2> Things I code with </h2>   
  <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
